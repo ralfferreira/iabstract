@@ -1,1 +1,1 @@
-# generate-abstracta
+# generate-abstract
