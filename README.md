@@ -1,1 +1,2 @@
 # generate-abstract
+ok
