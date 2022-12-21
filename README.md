@@ -28,4 +28,4 @@ _**IAbstract**_ is an NLP (Natural Language Processing) project, developed by UF
 - [@Marilia Brito](https://github.com/mariliabrito)
 - [@Ralf Dewrich](https://github.com/ralfferreira)
 - [@George P.](https://github.com/GeorgePaulino)
-- [@Vito Elias](https://github.com/RoYCal)
+- [@Vito Elias](https://github.com/RoyCal)
